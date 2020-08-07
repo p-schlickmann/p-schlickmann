@@ -4,9 +4,9 @@
   
 I am a Information Systems student at Universidade Federal de Santa Catarina, Florianópolis, Brazil. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px">
 
-- ⭐️ Python, Django, HTML, CSS, JavaScript, React 
+- ⭐️ Python, Django, HTML, CSS, JavaScript and React 
 - 🔭 I’m currently working on a private project envolving brazilian beaches data and a weather rating algorithm.
-- 🌱 I’m currently learning Full Stack Web development, mostly back-end. 
+- ✔️ I’m currently learning Full Stack Web development, mostly back-end. 
 - 👯 I’m looking to collaborate on Web Development and Data Engineering projects.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: Close your eyes and open your mind.
