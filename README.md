@@ -16,7 +16,9 @@ I am a Information Systems student at Universidade Federal de Santa Catarina, Fl
 |---|---|
 
 
-----
+
 |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">]() windowsxpedro@gmail.com  
-|---|
+|---|  
+
+----
 
