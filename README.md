@@ -1,8 +1,8 @@
- ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ ### 👋 Hello World !    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :blue_heart: Surfing | :green_heart: Python
   
-I am a Information Systems student at Universidade Federal de Santa Catarina, Florianópolis, Brazil. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px">
+I am a Information Systems student at Universidade Federal de Santa Catarina, Florianópolis, Brazil.   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px">
 
 - ⭐️ Python, Selenium, Django, HTML, CSS, JavaScript and React 
 - 🔭 I’m currently working on a private project envolving brazilian beaches data and a weather rating algorithm.
