@@ -1,8 +1,8 @@
- ## 👋 Hello World !    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ ## 👋 Hello World !    <img src="https://www.pinclipart.com/picdir/big/131-1311752_earth-gif-earth-animated-gif-png-clipart.png" width="30px">
   
 :heart: Programming | :blue_heart: Surfing | :green_heart: Python
   
-I'm a IT Student at UFSC and a Full-Stack Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px">
+I'm a IT Student at UFSC and a Full-Stack Web Developer.
 - 🔭 I’m currently working on a private project envolving brazilian beaches data and a weather rating algorithm.
 - ✔️ I’m currently learning Full Stack Web development. 
 - 👯 I’m looking to collaborate on Web Development and Data Engineering projects.
