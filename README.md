@@ -3,7 +3,7 @@
 :heart: Programming | :blue_heart: Surfing | :green_heart: Python
   
 I'm a IT Student at UFSC and a Full-Stack Web Developer.
-- 🔭 I’m currently working on a private project envolving brazilian beaches data and a weather rating algorithm.
+- 🔭 I’m currently working on a weather rating algorithm.
 - ✔️ I’m currently learning TypeScript. 
 - 👯 I’m looking to collaborate on Web Development and Data Engineering projects.
 - 💬 Ask me about anything. I will try to help you as much as I can.
