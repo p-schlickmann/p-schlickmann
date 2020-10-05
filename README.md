@@ -1,7 +1,5 @@
  ## 👋 Hello World !    <img src="https://www.pinclipart.com/picdir/big/131-1311752_earth-gif-earth-animated-gif-png-clipart.png" width="30px">
   
-:heart: Programming | :blue_heart: Surfing | :green_heart: Python
-  
 I'm a IT Student at UFSC and a Full-Stack Web Developer.
 - 🔭 I’m currently working on a weather rating algorithm.
 - ✔️ I’m currently learning TypeScript and Django. 
