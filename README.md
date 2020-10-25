@@ -2,7 +2,7 @@
   
 I'm a IT Student at UFSC and a Full-Stack Web Dev at Solyd.
 - 🔭 I’m currently working on a personal project.
-- ✔️ I’m currently learning React Native. 
+- ✔️ I’m currently learning Next.js. 
 - 👯 I’m looking to collaborate on Web Development and Data Engineering projects.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: Close your eyes and open your mind.
