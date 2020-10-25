@@ -14,8 +14,9 @@ I'm a IT Student at UFSC and a Full-Stack Web Dev at Solyd.
 <code><img height="30" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"></code>
 <code><img height="30" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/611/1*SW9IzqGWq8n-uhK7UWwzZA.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
-<code><img height="40" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+<code><img height="35" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
+<code><img height="35" src="https://www.mundojs.com.br/wp-content/uploads/2018/10/maxresdefault-1232x693.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></code>
