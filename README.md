@@ -18,10 +18,9 @@ I'm a IT Student at [UFSC](https://ufsc.br/) and a Software Engineer at [Solyd T
 <code><img height="35" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
 <code><img height="35" src="https://www.mundojs.com.br/wp-content/uploads/2018/10/maxresdefault-1232x693.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
- <code><img height="30" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"></code>
+ <code><img height="30" src="https://snipcart.com/media/205228/tailwindcss-tutorial.png"></code>
 <code><img height="30" src="https://cdn.vox-cdn.com/thumbor/ZlgJZZHewoP4X9oOp9v9WiWi7yc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16213725/git.jpg"></code>
 
 <!-- <code><img height="30" src="https://www.mundojs.com.br/wp-content/uploads/2018/10/maxresdefault-1232x693.jpg"></code>
