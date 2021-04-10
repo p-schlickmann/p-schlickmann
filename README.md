@@ -6,8 +6,7 @@ I'm a IT Student at [UFSC](https://ufsc.br/) and a Software Engineer at [Solyd O
 - ⚡ Quote: Close your eyes and open your mind.
 
 
-### 🔧 Technologies & Tools
-
+<!-- ### 🔧 Technologies & Tools
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="30" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"></code>
 <code><img height="30" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
