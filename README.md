@@ -1,6 +1,6 @@
  ## 👋 Hello World !    <img src="https://www.pinclipart.com/picdir/big/131-1311752_earth-gif-earth-animated-gif-png-clipart.png" width="30px">
   
-I'm a IT Student at [UFSC](https://ufsc.br/) and a Software Engineer at [Solyd Offensive Security](https://solyd.com.br/).
+I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](https://travelstation.app/).
 - ✔️ I’m currently learning Next.js. 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: Close your eyes and open your mind.
