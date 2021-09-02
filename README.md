@@ -1,12 +1,35 @@
  ## 👋 Hello World !    <img src="https://www.pinclipart.com/picdir/big/131-1311752_earth-gif-earth-animated-gif-png-clipart.png" width="30px">
   
-I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](https://travelstation.app/).
-- ✔️ I’m currently learning Next.js. 
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: Close your eyes and open your mind.
+I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](https://travelstation.app/).  
+<h3 align="left">🔧 Technologies & Tools</h3>
+<p align="left">
+ <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="60"/> 
+ </a>
+ <a href="https://aws.amazon.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="60"/> 
+ </a>
+ <a href="https://aws.amazon.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" height="60"/> 
+ </a>
+ <a href="https://python.org/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" height="60"/> 
+ </a> 
+ <a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="60"/> 
+ </a>
+ <a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="60"/> 
+ </a>
+ <a href="https://nextjs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" height="60"/> 
+ </a>
+ <a href="https://aws.amazon.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="60"/> 
+ </a>
+</p>
 
-
-<!-- ### 🔧 Technologies & Tools
+<!-- ### 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="30" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"></code>
 <code><img height="30" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
