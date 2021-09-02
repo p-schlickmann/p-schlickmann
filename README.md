@@ -6,10 +6,10 @@ I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](
  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="60"/> 
  </a>
- <a href="https://aws.amazon.com/" target="_blank"> 
+ <a href="https://en.wikipedia.org/wiki/css" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="60"/> 
  </a>
- <a href="https://aws.amazon.com/" target="_blank"> 
+ <a href="https://www.javascript.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" height="60"/> 
  </a>
  <a href="https://python.org/" target="_blank"> 
