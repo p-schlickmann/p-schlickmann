@@ -28,7 +28,6 @@ I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="60"/> 
  </a>
 </p>
-<img src='http://localhost:3000' style='display: none'/>
 
 <!-- ### 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
