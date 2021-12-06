@@ -1,6 +1,6 @@
  ## 👋 Hello World !    <img src="https://www.pinclipart.com/picdir/big/131-1311752_earth-gif-earth-animated-gif-png-clipart.png" width="30px">
   
-I'm a IT Student at [UFSC](https://ufsc.br/) and Co-Founder at [Travel Station](https://travelstation.app/).  
+I'm a IT Student at [UFSC](https://ufsc.br/) and Lead Software Engineer at [Travel Station](https://travelstation.app/).  
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align="left">
  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
